@@ -1,0 +1,10 @@
+/home/ubuntu/environment/sistemas-distribuidos/chat-em-linha-de-comando-via-rabbitmq-juniorufs17/src/main/java/br/ufs/dcomp/ChatRabbitMQ/GroupManager.java
+/home/ubuntu/environment/sistemas-distribuidos/chat-em-linha-de-comando-via-rabbitmq-juniorufs17/src/main/java/br/ufs/dcomp/ChatRabbitMQ/Encoder.java
+/home/ubuntu/environment/sistemas-distribuidos/chat-em-linha-de-comando-via-rabbitmq-juniorufs17/src/main/java/br/ufs/dcomp/ChatRabbitMQ/Result.java
+/home/ubuntu/environment/sistemas-distribuidos/chat-em-linha-de-comando-via-rabbitmq-juniorufs17/src/main/java/br/ufs/dcomp/ChatRabbitMQ/MessageProto.java
+/home/ubuntu/environment/sistemas-distribuidos/chat-em-linha-de-comando-via-rabbitmq-juniorufs17/src/main/java/br/ufs/dcomp/ChatRabbitMQ/RestClient.java
+/home/ubuntu/environment/sistemas-distribuidos/chat-em-linha-de-comando-via-rabbitmq-juniorufs17/src/main/java/br/ufs/dcomp/ChatRabbitMQ/FileManager.java
+/home/ubuntu/environment/sistemas-distribuidos/chat-em-linha-de-comando-via-rabbitmq-juniorufs17/src/main/java/br/ufs/dcomp/ChatRabbitMQ/Arguments.java
+/home/ubuntu/environment/sistemas-distribuidos/chat-em-linha-de-comando-via-rabbitmq-juniorufs17/src/main/java/br/ufs/dcomp/ChatRabbitMQ/Chat.java
+/home/ubuntu/environment/sistemas-distribuidos/chat-em-linha-de-comando-via-rabbitmq-juniorufs17/src/main/java/br/ufs/dcomp/ChatRabbitMQ/Decoder.java
+/home/ubuntu/environment/sistemas-distribuidos/chat-em-linha-de-comando-via-rabbitmq-juniorufs17/src/main/java/br/ufs/dcomp/ChatRabbitMQ/Binding.java
